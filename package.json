@@ -1,0 +1,17 @@
+{
+  "name": "class1",
+  "version": "1.0.0",
+  "description": "my_1_expres_app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shariqmehmood",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "expres": "^0.0.5",
+    "express": "^4.17.1"
+  }
+}
